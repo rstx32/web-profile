@@ -220,6 +220,13 @@ https://templatemo.com/tm-538-digital-trend
     MENU             
   -----------------------------------------*/
 
+  img.logoFilantrop{
+    width:400px;
+    height:40px;
+    max-width:50%;
+    max-height:50%;
+  }
+
   .navbar {
     background: var(--menu-bg);
     z-index: 2;
