@@ -393,7 +393,7 @@ https://templatemo.com/tm-538-digital-trend
     right: 32px;
     left: 32px;
     width: 90%;
-    padding: 32px;
+    padding: 10px;
   }
 
   .project-info small {
@@ -405,6 +405,7 @@ https://templatemo.com/tm-538-digital-trend
 
   .project-info a {
     color: var(--primary-color);
+    padding-left: 15px;
   }
 
   .project-info .project-icon {
