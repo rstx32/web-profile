@@ -32,7 +32,8 @@ https://templatemo.com/tm-538-digital-trend
 
   :root {
     --primary-color:        #02629e;
-    --secondary-color:      #f1c111;
+    /* --secondary-color:      #f1c111; */
+    --secondary-color:      #025487;
     --white-color:          #ffffff;
     --dark-color:           #171819;
     --project-bg:           #f0f8ff;
